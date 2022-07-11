@@ -1,0 +1,1 @@
+data sets are to be placed in /data/ and obtained from http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/
